@@ -1,0 +1,6 @@
+/Users/besnyj/Desktop/Cstuides/CProjects/DiceRollGame/DiceRollGame/bin/Debug/DiceRollGame.exe
+/Users/besnyj/Desktop/Cstuides/CProjects/DiceRollGame/DiceRollGame/bin/Debug/DiceRollGame.pdb
+/Users/besnyj/Desktop/Cstuides/CProjects/DiceRollGame/DiceRollGame/obj/Debug/DiceRollGame.csproj.AssemblyReference.cache
+/Users/besnyj/Desktop/Cstuides/CProjects/DiceRollGame/DiceRollGame/obj/Debug/DiceRollGame.csproj.CoreCompileInputs.cache
+/Users/besnyj/Desktop/Cstuides/CProjects/DiceRollGame/DiceRollGame/obj/Debug/DiceRollGame.exe
+/Users/besnyj/Desktop/Cstuides/CProjects/DiceRollGame/DiceRollGame/obj/Debug/DiceRollGame.pdb
